@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
